@@ -1,0 +1,12 @@
+<svg width="408" height="408" viewBox="0 0 408 408" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="rgb(255, 255, 255)" />
+      <stop offset="28.83%" stop-color="rgb(102, 227, 255)" />
+      <stop offset="56.31%" stop-color="rgb(167, 135, 255)" />
+      <stop offset="86.49%" stop-color="rgb(255, 200, 117)" />
+    </linearGradient>
+  </defs>
+  <!-- Draw the line with linear gradient stroke -->
+  <rect x="25" y="200" width="358" height="8" fill="url(#linear-gradient)" />
+</svg>
