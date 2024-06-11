@@ -1,6 +1,6 @@
-# My portfolio
+# My portfolio (Under Construction)
 
-My portfolio website (Under Construction).
+Soon to be my new portfolio website
 
 ## Description
 
@@ -19,7 +19,7 @@ This website is still under construction and is in no way finished. So far I hav
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/PetterMartin/Portfolio
+git clone https://github.com/PetterMartin/portfolio-2
 ```
 
 2. Install the dependencies:
